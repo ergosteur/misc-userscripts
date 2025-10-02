@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Extract Links (Universal, Configurable Patterns)
-// @namespace    ergosteur
+// @namespace    https://github.com/ergosteur/misc-userscripts
+// @author       ergosteur
 // @version      2.9
 // @description  Universal lazy-scroll link extractor with config, HUD, stop button, and Tampermonkey menu
 // @match        *://*/*

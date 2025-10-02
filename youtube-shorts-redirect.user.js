@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         YouTube Shorts Redirect
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ergosteur/misc-userscripts
+// @author       ergosteur
 // @version      0.1
 // @description  Redirects YouTube Shorts links to the standard watch page.
 // @author       You

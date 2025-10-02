@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Expand t.co links (live replace, Location header fixed)
-// @namespace    ergosteur
+// @namespace    https://github.com/ergosteur/misc-userscripts
+// @author       ergosteur
 // @version      0.7
 // @description  Expand t.co shortlinks into final URLs by parsing Location header
 // @match        https://twitter.com/*

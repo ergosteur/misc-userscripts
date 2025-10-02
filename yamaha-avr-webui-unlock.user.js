@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Yamaha AVR Full UI Unlock
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ergosteur/misc-userscripts
+// @author       ergosteur
 // @version      1.4
 // @description  Unlocks the full web UI for the Yamaha RX-V573 by spoofing the model name to a high-end model.
 // @match        http://rx-v573.local/*

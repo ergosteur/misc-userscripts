@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         LuxWeather Frame & Scale Toggle (Settings Integration)
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ergosteur/misc-userscripts
+// @author       ergosteur
 // @version      1.8
 // @description  Toggle CRT frame and scaling (Off, Default, 4:3, 16:9, Stretch) via settings panel with localStorage + keyboard shortcuts
 // @match        https://luxweather.com/*

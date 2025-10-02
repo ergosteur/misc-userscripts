@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Apollo Cafe Image Upgrader
-// @namespace    https://apollo.cafe/
+// @namespace    https://github.com/ergosteur/misc-userscripts
+// @author       ergosteur
 // @version      1.0
 // @description  Replace all imagedelivery.net URLs ending in /2x with /4x on apollo.cafe
 // @match        https://apollo.cafe/*
