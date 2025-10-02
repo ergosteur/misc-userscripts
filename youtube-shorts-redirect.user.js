@@ -9,6 +9,7 @@
 // @grant        none
 // @run-at       document-start
 // @downloadURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/youtube-shorts-redirect.user.js
+// @updateURL    https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/youtube-shorts-redirect.user.js
 // ==/UserScript==
 
 (function() {

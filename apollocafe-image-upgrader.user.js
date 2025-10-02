@@ -9,6 +9,7 @@
 // @icon         https://apollo.cafe/favicon.ico
 // @grant        none
 // @downloadURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/apollocafe-image-upgrader.user.js
+// @updateURL    https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/apollocafe-image-upgrader.user.js
 // ==/UserScript==
 
 (function() {

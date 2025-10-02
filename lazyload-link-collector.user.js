@@ -7,6 +7,7 @@
 // @match        *://*/*
 // @grant        GM_registerMenuCommand
 // @downloadURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/lazyload-link-collector.user.js
+// @updateURL    https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/lazyload-link-collector.user.js
 // ==/UserScript==
 
 (function () {

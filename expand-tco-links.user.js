@@ -9,6 +9,7 @@
 // @grant        GM_registerMenuCommand
 // @grant        GM_xmlhttpRequest
 // @downloadURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/expand-tco-links.user.js
+// @updateURL    https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/expand-tco-links.user.js
 // ==/UserScript==
 
 (function() {

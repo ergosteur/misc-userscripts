@@ -7,6 +7,7 @@
 // @match        https://luxweather.com/*
 // @run-at       document-idle
 // @downloadURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/luxweather-tweaks.user.js
+// @updateURL    https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/luxweather-tweaks.user.js
 // ==/UserScript==
 
 (function () {

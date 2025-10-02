@@ -8,6 +8,7 @@
 // @match        https://twitter.com/*
 // @grant        none
 // @downloadURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/lazyload-twitter-link-collector.user.js
+// @updateURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/lazyload-twitter-link-collector.user.js
 // ==/UserScript==
 
 (function() {

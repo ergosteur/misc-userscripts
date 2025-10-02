@@ -8,6 +8,7 @@
 // @grant        none
 // @run-at       document-start
 // @downloadURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/yamaha-avr-webui-unlock.user.js
+// @updateURL    https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/yamaha-avr-webui-unlock.user.js
 // ==/UserScript==
 
 (function() {
