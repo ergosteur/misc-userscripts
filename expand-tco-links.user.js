@@ -2,12 +2,13 @@
 // @name         Expand t.co links (live replace, Location header fixed)
 // @namespace    https://github.com/ergosteur/misc-userscripts
 // @author       ergosteur
-// @version      0.7
+// @version      0.7.1
 // @description  Expand t.co shortlinks into final URLs by parsing Location header
 // @match        https://twitter.com/*
 // @match        https://x.com/*
 // @grant        GM_registerMenuCommand
 // @grant        GM_xmlhttpRequest
+// @downloadURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/expand-tco-links.user.js
 // ==/UserScript==
 
 (function() {

@@ -2,10 +2,11 @@
 // @name         Extract Links (Universal, Configurable Patterns)
 // @namespace    https://github.com/ergosteur/misc-userscripts
 // @author       ergosteur
-// @version      2.9
+// @version      2.9.1
 // @description  Universal lazy-scroll link extractor with config, HUD, stop button, and Tampermonkey menu
 // @match        *://*/*
 // @grant        GM_registerMenuCommand
+// @downloadURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/lazyload-link-collector.user.js
 // ==/UserScript==
 
 (function () {

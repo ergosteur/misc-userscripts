@@ -2,12 +2,13 @@
 // @name         YouTube Shorts Redirect
 // @namespace    https://github.com/ergosteur/misc-userscripts
 // @author       ergosteur
-// @version      0.1
+// @version      0.1.1
 // @description  Redirects YouTube Shorts links to the standard watch page.
 // @author       You
 // @match        https://www.youtube.com/shorts/*
 // @grant        none
 // @run-at       document-start
+// @downloadURL  https://github.com/ergosteur/misc-userscripts/raw/refs/heads/main/youtube-shorts-redirect.user.js
 // ==/UserScript==
 
 (function() {
